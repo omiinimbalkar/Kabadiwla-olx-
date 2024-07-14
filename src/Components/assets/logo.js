@@ -12,7 +12,7 @@ export default  function bhangar(props) {
       >
         <path
           className="rui-77aaa"
-          d="C:\Users\Om\OneDrive\Desktop\Kabadii\olx-clone\src\Components\assets\logo.jpeg"/>
+          d="C:\Users\Om\OneDrive\Desktop\Kabadii\olx-clone\src\Components\assets\logo.jpg"/>
   
       </svg>)
 }

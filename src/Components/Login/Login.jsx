@@ -24,7 +24,7 @@ function Login() {
             <div className="wrapper">
                 <div className="box">
                     <div className='top'>
-                        <Logo width="100px" height="100px" ></Logo>
+                        {/* <Logo width="100px" height="100px" ></Logo> */}
                         <h3>Enter your details</h3>
                     </div>
                     <form onSubmit={handleSubmit}>
@@ -41,7 +41,7 @@ function Login() {
                     <div className="footer">
                         <p>All your personal details are safe with us.</p>
 
-                        <p>If you continue, you are accepting <br /> OLX Terms and Conditions and Privacy Policy</p>
+                        <p>If you continue, you are accepting <br />The Kabadiwala Terms and Conditions and Privacy Policy</p>
                     </div>
                 </div>
             </div>

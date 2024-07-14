@@ -14,19 +14,26 @@ function Footer() {
                     <p>Pune</p>
                 </div>
                 <div className="column">
-                    <span>TRENDING LOCTAIONS</span>
-                    <p>Bhubaneshwar</p>
-                    <p>Hyderbad</p>
-                    <p>Chandigrah</p>
+                    <span>TRENDING LOCTAIONS IN MAHARSHTRA</span>
+                    <p>Virar</p>
+                    <p>Palghar</p>
+                    <p>Mumbai</p>
                     <p>Nasik</p>
                 </div>
                 <div className="column">
+                    <span>Contact No</span>
+                    <p>9088732902</p>
+                    <p>7898373780</p>
+                    <p>8973446778</p>
+                    <p>9834562312</p>
+                </div>
+                <div className="column">
                     <span>ABOUT US</span>
-                    <p>About Kabadiwala group</p>
+                    <p>About The Kabadiwala group</p>
                     <p>Careers</p>
                     <p>Contact us</p>
-                    <p>Kabadiwala Pepole</p>
-                    <p>Waah Jobs</p>
+                    <p>The Kabadiwala People's</p>
+                    
                 </div>
                 <div className="column">
                     <span>Kabadiwala</span>
@@ -37,8 +44,8 @@ function Footer() {
                 </div>
             </div>
             <div className="copyright">
-                <p><span> Other Countries</span> Pakistan - South Africa - Indonesia</p>
-                <p>All rights reserved © 2006-{year} Kabadiwala</p>
+                <p><span> Other Countries</span>  South Africa - Indonesia</p>
+                <p>All rights reserved © 2023-24-{year} The Kabadiwala</p>
             </div>
         </div>
     )

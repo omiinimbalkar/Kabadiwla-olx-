@@ -11,7 +11,9 @@
         display: flex;
         height: 70REM;
         justify-content: center;
-        background: #15185a;
+        background-image: url("https://img.freepik.com/free-photo/green-product-background_53876-90135.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
     }
 
 }
@@ -218,7 +220,7 @@
 @media screen and (max-device-width: 2560px) {
     .sell-page .footer {
         font-size: 17px;
-        color: bisque;
+        color: rgb(201, 157, 103);
         margin-top: 2rem;
     }
 }

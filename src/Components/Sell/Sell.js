@@ -41,7 +41,7 @@ function Sell() {
             <div className="wrapper">
                 <div className="box">
                     <div className='top'>
-                        <Logo width="100px" height="100px" ></Logo>
+                        <Logo width="80px" height="80px" ></Logo>
                         <h3>Enter Product details</h3>
                     </div>
                    
@@ -67,7 +67,7 @@ function Sell() {
                
                     <div className="footer">
                         <p>All your personal details are safe with us.</p>
-                        <p>If you continue, you are accepting <br /> OLX Terms and Conditions and Privacy Policy</p>
+                        <p>If you continue, you are accepting <br />The Kabadii Terms and Conditions and Privacy Policy</p>
                     </div>
                 </div>
             </div>
